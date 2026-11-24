@@ -1,0 +1,7 @@
+answers.json
+answers.json.tmp
+.claude/
+server.py
+start.command
+.DS_Store
+__pycache__/
